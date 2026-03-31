@@ -10,8 +10,8 @@
 
 | # | Prompt | Description | Source |
 |---|--------|-------------|--------|
-| 01 | [Paper Analysis / 论文深度分析](./01-paper-analysis/) | First-principles framework for dissecting research papers | 
-| 02 | [48h Field Mastery / 48小时速通学科](./02-48h-field-mastery/) | Structured questioning method to master a field in 48 hours |
+| 01 | [Paper Analysis / 论文深度分析](./01-paper-analysis/) | First-principles framework for dissecting research papers | N |
+| 02 | [48h Field Mastery / 48小时速通学科](./02-48h-field-mastery/) | Structured questioning method to master a field in 48 hours | N |
 
 ## Structure
 
